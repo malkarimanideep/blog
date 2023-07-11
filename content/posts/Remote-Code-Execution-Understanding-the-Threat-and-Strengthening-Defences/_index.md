@@ -2,6 +2,28 @@
 title: "Remote Code Execution: Understanding the Threat and Strengthening Defences"
 date: 2023-06-12T21:37:39+02:00
 draft: false
+category: ["Remote Code Execution"]
+tags: ["Remote Code Execution",
+"Cyber Threats",
+"Vulnerabilities",
+"Exploits",
+"Software Security",
+"Web Application Security",
+"Data Breaches",
+"Malware Injection",
+"System Disruption",
+"Protection Strategies",
+"Patch Management",
+"Secure Coding Practices",
+"Web Application Firewalls",
+"Network Segmentation",
+"Attack Detection and Prevention",
+"User Awareness and Training",
+"Penetration Testing",
+"Vulnerability Assessments",
+"Cyber Defense"
+]
+
 ---
 
 ## Introduction
