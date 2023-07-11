@@ -10,14 +10,14 @@ title = "Manideep Malkari"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-   copyright = "Copy, _right?_ :thinking_face:"
+  description = "I am a Certified Ethical Hacker with experience in cybersecurity and data governance. I have a strong background in implementing security policies and procedures, conducting security assessments, and identifying vulnerabilities in applications, infrastructure, and systems. I have also worked as a Senior Application Security Engineer, where I drive the adoption of security best practices and contribute to the overall security strategy of the organization. I have gained experience in various roles, including a Cyber Security Specialist, Business Specialist, and Application Engineer. I hold a Master's degree in Cyber Security and Data Governance, and I have certifications such as Certified Ethical Hacker (CEH) and completion of various cybersecurity programs."
+  copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Manideep Malkari"
    image = "img/84F5D3E6-3475-477A-99F3-4821B3DEDDCA.JPG"
    headline = "Senior Application Security Engineer"
-   bio = "A little bit about you"
+   bio = "I am a Certified Ethical Hacker with experience in cybersecurity and data governance. I have a strong background in implementing security policies and procedures, conducting security assessments, and identifying vulnerabilities in applications, infrastructure, and systems. I have also worked as a Senior Application Security Engineer, where I drive the adoption of security best practices and contribute to the overall security strategy of the organization. I have gained experience in various roles, including a Cyber Security Specialist, Business Specialist, and Application Engineer. I hold a Master's degree in Cyber Security and Data Governance, and I have certifications such as Certified Ethical Hacker (CEH) and completion of various cybersecurity programs."
    links = [
      { email = "manideep199516@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

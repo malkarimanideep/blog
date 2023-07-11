@@ -2,7 +2,7 @@
 title: "Vehicle SOC"
 date: 2023-06-08T22:23:50+02:00
 draft: false
-category: ["SOC"]
+categories: ["SOC"]
 tags: [
 "Connected vehicles",
 "Automotive industry",

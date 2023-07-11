@@ -2,7 +2,7 @@
 title: "Remote Code Execution: Understanding the Threat and Strengthening Defences"
 date: 2023-06-12T21:37:39+02:00
 draft: false
-category: ["Remote Code Execution"]
+categories: ["Remote Code Execution"]
 tags: ["Remote Code Execution",
 "Cyber Threats",
 "Vulnerabilities",
