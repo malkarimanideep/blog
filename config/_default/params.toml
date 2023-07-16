@@ -41,9 +41,9 @@ smartTOC = true
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
@@ -84,7 +84,7 @@ smartTOC = true
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = false
+  showCards = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
